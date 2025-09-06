@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthra2292&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=C%2B%2B,C,TeX,C%23,Assembly,MATLAB,CMake,ShaderLab,HLSL,TSQL,DART,D,Makefile,Ruby,Swift,Standard%20ML,SCSS,CSS,Vue">
 </p>
 
 <!---
@@ -31,8 +31,8 @@
 <!---
 <h4 align="center">Views of all repositories (updated daily)</h4>
 <p align="center">
-	<a href="https://github.com/formidablae/my_github_profile_views_counter">
-		<img width="135em" src="https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
+	<a href="https://github.com/ruthra2292/my_github_profile_views_counter">
+		<img width="135em" src="https://github.com/ruthra2292/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
 	</a>
 </p>
 --->
@@ -68,13 +68,13 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/formidablae/Masters_Thesis">
+	<a href="https://github.com/ruthra2292/Masters_Thesis">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Masters_Thesis&hide_border=true&theme=dark">
 	</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/formidablae/Personal_Blog">
+	<a href="https://github.com/ruthra2292/Personal_Blog">
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=formidablae&repo=Personal_Blog&hide_border=true&theme=dark">
 	</a>
 </p>
