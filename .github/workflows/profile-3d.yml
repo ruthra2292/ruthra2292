@@ -11,14 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@main
+      - uses: ruthra2292/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
       - name: Commit & Push
         run: |
-          git config user.name formidablae
+          git config user.name ruthra2292
           git config user.email 81068781+formidablae@users.noreply.github.com
           git add -A .
           git commit -m "Personal 3d Contributions images updated"
